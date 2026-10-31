@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+scene_geometry.json
+*.log
