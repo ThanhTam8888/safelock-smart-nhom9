@@ -1,0 +1,51 @@
+﻿Mã,Tên chi tiết,Nhóm,Vật liệu,In mẫu nhựa được,Ghi chú
+01_lower_cover,Thân kẹp dưới,lower,PA6-GF30 / mẫu PA12,True,Vỏ không được tính là bộ phận chống cắt chính.
+01_upper_cover,Nắp kẹp trên,upper,PA6-GF30 / mẫu PA12,True,Vỏ không được tính là bộ phận chống cắt chính.
+02_core_lower_L,Lõi thép dưới trái,lower,"Thép 40Cr, dày 3 mm",False,"Cắt laser, gia công lỗ; nhiệt luyện và chống gỉ theo thử nghiệm."
+02_core_lower_R,Lõi thép dưới phải,lower,"Thép 40Cr, dày 3 mm",False,"Cắt laser, gia công lỗ; nhiệt luyện và chống gỉ theo thử nghiệm."
+02_core_upper_L,Lõi thép trên trái,upper,"Thép 40Cr, dày 3 mm",False,"Cắt laser, gia công lỗ; nhiệt luyện và chống gỉ theo thử nghiệm."
+02_core_upper_R,Lõi thép trên phải,upper,"Thép 40Cr, dày 3 mm",False,"Cắt laser, gia công lỗ; nhiệt luyện và chống gỉ theo thử nghiệm."
+03_bridge_lower_0,Giằng nối lõi thép,lower,Thép 40Cr,False,Hàn/gia công liên kết với hai má lõi trước nhiệt luyện.
+03_bridge_lower_1,Giằng nối lõi thép,lower,Thép 40Cr,False,Hàn/gia công liên kết với hai má lõi trước nhiệt luyện.
+03_bridge_upper_0,Giằng nối lõi thép,upper,Thép 40Cr,False,Hàn/gia công liên kết với hai má lõi trước nhiệt luyện.
+03_bridge_upper_1,Giằng nối lõi thép,upper,Thép 40Cr,False,Hàn/gia công liên kết với hai má lõi trước nhiệt luyện.
+03_hinge_upper,Cối bản lề thép trên và gân nối,upper,Thép tôi,False,Gân nối hàn vào giằng trên; truyền lực cơ học qua thép.
+03_hinge_lower_0,Cối bản lề thép dưới,lower,Thép tôi,False,Hàn vào má lõi dưới trước nhiệt luyện.
+03_hinge_lower_1,Cối bản lề thép dưới,lower,Thép tôi,False,Hàn vào má lõi dưới trước nhiệt luyện.
+03_latch_receiver,Hộp dẫn hướng tai và chốt khóa,lower,Thép tôi,False,Liên kết với giằng dưới; giữ và dẫn hướng tai khóa.
+04_grip_liner_lower,Đệm tay ga Ø34 — lower,lower,EPDM 65–75 Shore A,True,Lòng Ø34 mm; thay đệm Ø30/32/36. Độ ép thực tế cần đo.
+05_brake_pad_lower,Đệm giữ tay phanh — lower,lower,EPDM,True,Thay đệm lệch tâm sau khi đo tay phanh; không ép phanh quá hành trình.
+04_grip_liner_upper,Đệm tay ga Ø34 — upper,upper,EPDM 65–75 Shore A,True,Lòng Ø34 mm; thay đệm Ø30/32/36. Độ ép thực tế cần đo.
+05_brake_pad_upper,Đệm giữ tay phanh — upper,upper,EPDM,True,Thay đệm lệch tâm sau khi đo tay phanh; không ép phanh quá hành trình.
+06_hinge_pin,Trục bản lề Ø6,lower,Thép không gỉ / thép tôi,False,Chốt tán kín hai đầu; lõi thép có lỗ đồng trục.
+06_hinge_cap_-24.5,Đầu tán trục,lower,Thép,False,
+06_hinge_cap_24.5,Đầu tán trục,lower,Thép,False,
+07_key_cylinder,Ruột khóa cơ Ø14 × 14,lower,Cụm ruột khóa mua sẵn,False,Bao hình mua hàng; chưa thiết kế bi/tumbler bên trong.
+07_key_face,Mặt ruột khóa và rãnh chìa,lower,Thép không gỉ,False,
+08_lock_tongue,Tai khóa thép có lỗ chốt,upper,"Thép tôi, 7,5 × 10 mm",False,"Tai nối với giằng trên; lỗ Ø6.6 là lỗ kín, còn gân hai bên."
+09_cam_bolt,"Chốt khóa Ø6 × 16, hành trình 12",lower,Thép tôi,False,Chốt ăn vào má nhận hai bên; ổ khóa nhà cung cấp phải có cơ cấu rút chốt 12 mm thực.
+10_pod_tray,"Khay điện tử, gân và trụ vít",upper,PC-ABS chống UV,True,"Tách khỏi đường chịu lực; đế dày 2,5 mm."
+11_main_pcb,"PCB đặt riêng 60 × 32 × 1,6",upper,FR4 4 lớp,False,Bao hình PCB; không phải sơ đồ mạch/gerber đã xác nhận.
+12_lte_module,"SIM7670G, tùy chọn có GNSS",upper,Module LTE Cat 1bis,False,"Kích thước hãng 24 × 24 × 2,4; phải mua đúng SKU có GNSS."
+13_mcu,MCU tiết kiệm điện,upper,MCU low power,False,Bao hình linh kiện; chọn STM32L0/L4 hoặc tương đương.
+13_accel,Cảm biến gia tốc 3 trục,upper,MEMS,False,Wake-on-motion; lọc rung do môi trường bằng firmware.
+13_hall,Cảm biến Hall trạng thái đóng,upper,Hall low power,False,"Dây đi trong nửa trên, xuyên gioăng lên PCB; không qua bản lề."
+13_magnet,Nam châm nhận biết trạng thái,lower,Nam châm,False,"Hall chỉ xác nhận hai nửa áp sát, không thay thế kiểm tra chốt."
+14_sim_holder,Khay nano-SIM,upper,Khay SIM,False,"SIM nằm trong nắp kín, không có khe hở bên hông."
+15_battery,"Pin Li-Po 1S, bao hình 60 × 30 × 8",upper,Pin Li-Po có bảo vệ + NTC,False,Khoảng 1.500 mAh là mục tiêu mua hàng; xác nhận datasheet cell. Dành khe nở ≥1 mm.
+15_battery_label,Nhãn pin,upper,Nhãn cách điện,False,
+16_gnss_ground,Ground plane anten GNSS 24 × 24,upper,FR4 phủ đồng,False,Khay cách điện đỡ riêng phía trên pin; ground plane theo datasheet anten.
+16_gnss_patch,Anten GNSS patch 18 × 18 × 4,upper,Gốm / PCB groundplane,False,"Bao hình anten; cần ground plane và đo RF, không có thép che phía trên."
+17_lte_antenna,Anten LTE FPC 40 × 10,upper,FPC dán thành nhựa,False,Bao hình tham khảo; kích thước cuối theo anten và tuning RF.
+18_usb_c,Cổng USB-C 5 V,upper,Cổng USB-C,False,"Hai điện trở CC; bộ sạc 1S có NTC, bảo vệ và đường cấp modem."
+18_usb_flap,Nút bịt cổng sạc,upper,Silicone,True,"Gờ ép kín; chỉ sạc khi tháo khỏi xe, nơi khô thoáng."
+19_cable_grommet,Gioăng lỗ dây cảm biến,upper,Silicone,False,Dây tới cảm biến Hall/tamper; bịt kín bằng silicone.
+20_seal,Gioăng chu vi nắp điện tử,upper,Silicone,True,"Gioăng hình chữ nhật bo góc; mục tiêu ép 15–25%, cần thử kín."
+21_pod_lid,Nắp anten tháo bằng vít,upper,PC-ABS chống UV,True,Mục tiêu chống bụi/nước sau thử nghiệm; chưa công bố IP.
+22_lid_screw_0,Vít nắp M3,upper,Thép không gỉ,False,"Ren vào insert đồng lắp nhiệt trong boss, mô hình bao hình ren."
+22_lid_screw_1,Vít nắp M3,upper,Thép không gỉ,False,"Ren vào insert đồng lắp nhiệt trong boss, mô hình bao hình ren."
+22_lid_screw_2,Vít nắp M3,upper,Thép không gỉ,False,"Ren vào insert đồng lắp nhiệt trong boss, mô hình bao hình ren."
+22_lid_screw_3,Vít nắp M3,upper,Thép không gỉ,False,"Ren vào insert đồng lắp nhiệt trong boss, mô hình bao hình ren."
+23_status_lens,LED trạng thái và dẫn sáng,upper,PC trong,False,LED sáng ngắn khi thao tác để giảm điện năng.
+24_brand,Chữ SAFELOCK,upper,In pad / khắc laser,False,
+24_brand_small,Chữ SMART / G9,upper,In pad,False,

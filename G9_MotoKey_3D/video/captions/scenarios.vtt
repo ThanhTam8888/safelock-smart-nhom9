@@ -1,0 +1,71 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.000
+Đỗ xe đúng quy trình
+Cho thấy đầy đủ hành vi sử dụng: dừng xe, gắn khóa, kiểm tra bằng tay và rời xe.
+
+2
+00:00:06.000 --> 00:00:12.000
+Quên chìa trong ổ xe
+Nhắc người dùng kiểm tra chìa xe ngay sau khi rời vị trí đỗ.
+
+3
+00:00:12.000 --> 00:00:18.000
+Quên chìa trên SafeLock
+Giải thích rằng chốt đã đóng vẫn chưa đủ nếu chìa khóa cơ bị để lại trên thiết bị.
+
+4
+00:00:18.000 --> 00:00:24.000
+Quên gắn khóa
+Minh họa một bước nhắc bổ sung khi đã chủ động bật Chế độ đỗ mà khóa vẫn mở.
+
+5
+00:00:24.000 --> 00:00:30.000
+Rung nhẹ do xe bên cạnh
+Phân biệt một va chạm ngắn với chuỗi tác động lặp lại; giảm cảnh báo gây phiền.
+
+6
+00:00:30.000 --> 00:00:36.000
+Tác động mạnh, cố dắt xe
+Cho thấy hai lớp bảo vệ: cơ khí tạo trở ngại và cảm biến phát hiện tác động bất thường.
+
+7
+00:00:36.000 --> 00:00:42.000
+Xe bị nhấc lên phương tiện
+Thể hiện giá trị theo dõi sau khi lớp cơ khí bị vượt qua bằng cách di chuyển cả chiếc xe.
+
+8
+00:00:42.000 --> 00:00:48.000
+Mất 4G rồi có mạng lại
+Không vẽ cảnh báo tức thì khi thiết bị không có đường gửi dữ liệu.
+
+9
+00:00:48.000 --> 00:00:54.000
+Đỗ trong hầm, GPS mất fix
+Tách đường truyền 4G khỏi khả năng nhận tọa độ GNSS.
+
+10
+00:00:54.000 --> 00:01:00.000
+Pin cạn khi đang đỗ
+Cho thấy cần nhắc sạc sớm và cơ khí không phụ thuộc pin.
+
+11
+00:01:00.000 --> 00:01:06.000
+Chuẩn bị đi, chưa tháo khóa
+Nhấn mạnh tháo thiết bị rồi kiểm tra tay ga/phanh trước khi chạy.
+
+12
+00:01:06.000 --> 00:01:12.000
+Khóa bị tách khỏi xe
+Làm rõ điểm yếu của việc gộp thiết bị định vị vào một chiếc khóa tháo rời.
+
+13
+00:01:12.000 --> 00:01:18.000
+Quên cả điện thoại trên xe
+Kiểm tra một trường hợp mà tính năng nhắc rời xa bằng điện thoại không giải quyết được.
+
+14
+00:01:18.000 --> 00:01:24.000
+Mở khóa và dắt xe hợp lệ
+Giải thích luồng kết thúc giám sát có chủ đích, tránh coi cứ có điện thoại gần là được mở khóa.

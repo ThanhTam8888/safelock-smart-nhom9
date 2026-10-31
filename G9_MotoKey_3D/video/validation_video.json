@@ -1,0 +1,65 @@
+{
+  "revision": "R04",
+  "passed": 7,
+  "checks": [
+    "All four MP4s decode completely: Full HD / 24 fps / correct frame count and duration",
+    "Playing shows synchronized explanation; pause, seek, close, hotspot reopen and hide/show work",
+    "Vietnamese captions load offline from Blob; playback speed works",
+    "Selecting all four films loads correct file, chapters and last-step explanation",
+    "Fullscreen keeps the video and its explanation together",
+    "900 / 430 / 375 px layouts fit; mobile explanation sits below the film",
+    "The new video tab is reachable from both existing 3D pages"
+  ],
+  "media": [
+    {
+      "id": "operation",
+      "seconds": 56,
+      "frames": "1344",
+      "size": [
+        1920,
+        1080
+      ],
+      "fps": "24/1",
+      "decode": "passed",
+      "spatial_cues": 112
+    },
+    {
+      "id": "mechanism",
+      "seconds": 28,
+      "frames": "672",
+      "size": [
+        1920,
+        1080
+      ],
+      "fps": "24/1",
+      "decode": "passed",
+      "spatial_cues": 56
+    },
+    {
+      "id": "forgotten",
+      "seconds": 36,
+      "frames": "864",
+      "size": [
+        1920,
+        1080
+      ],
+      "fps": "24/1",
+      "decode": "passed",
+      "spatial_cues": 72
+    },
+    {
+      "id": "scenarios",
+      "seconds": 84,
+      "frames": "2016",
+      "size": [
+        1920,
+        1080
+      ],
+      "fps": "24/1",
+      "decode": "passed",
+      "spatial_cues": 168
+    }
+  ],
+  "javascript_errors": [],
+  "external_requests": []
+}

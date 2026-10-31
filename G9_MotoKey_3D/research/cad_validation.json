@@ -1,0 +1,41 @@
+{
+  "revision": "R01",
+  "units_cad_stl": "mm",
+  "units_glb": "m",
+  "parts_total": 56,
+  "lock_parts": 50,
+  "all_cad_valid": true,
+  "critical_fit_checks": [
+    {
+      "a": "15_battery",
+      "b": "21_pod_lid",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "15_battery",
+      "b": "12_lte_module",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "15_battery",
+      "b": "11_main_pcb",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "16_gnss_patch",
+      "b": "21_pod_lid",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "01_upper_cover",
+      "b": "01_lower_cover",
+      "overlap_mm3": 0.0
+    },
+    {
+      "a": "08_lock_tongue",
+      "b": "07_key_cylinder",
+      "overlap_mm3": 0.0
+    }
+  ],
+  "note": "Digital concept; dimensional checks are not physical test or manufacturing sign-off."
+}

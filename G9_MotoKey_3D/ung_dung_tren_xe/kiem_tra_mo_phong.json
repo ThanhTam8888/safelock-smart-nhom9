@@ -1,0 +1,110 @@
+{
+  "javascript_errors": [],
+  "remote_requests": [],
+  "scenario_count": 14,
+  "cases": [
+    {
+      "case": "park",
+      "notice": "Phiên đỗ đã bắt đầu · mô phỏng",
+      "power": true,
+      "network": true,
+      "gps": true
+    },
+    {
+      "case": "ignition_key",
+      "notice": "Nhắc rời xa · đề xuất R02",
+      "power": true,
+      "network": true,
+      "gps": true
+    },
+    {
+      "case": "lock_key",
+      "notice": "Nhắc rời xa · đề xuất R02",
+      "power": true,
+      "network": true,
+      "gps": true
+    },
+    {
+      "case": "forgot_lock",
+      "notice": "Chế độ đỗ: hãy kiểm tra khóa",
+      "power": true,
+      "network": true,
+      "gps": true
+    },
+    {
+      "case": "light_bump",
+      "notice": "Rung ngắn đã được lọc · ví dụ",
+      "power": true,
+      "network": true,
+      "gps": true
+    },
+    {
+      "case": "forced_move",
+      "notice": "Có tác động bất thường",
+      "power": true,
+      "network": true,
+      "gps": true
+    },
+    {
+      "case": "lift",
+      "notice": "Thiết bị đang được di chuyển",
+      "power": true,
+      "network": true,
+      "gps": true
+    },
+    {
+      "case": "offline",
+      "notice": "Chưa nhận được cảnh báo từ xa",
+      "power": true,
+      "network": false,
+      "gps": true
+    },
+    {
+      "case": "gps_lost",
+      "notice": "Cảnh báo rung · chưa có fix GPS",
+      "power": true,
+      "network": true,
+      "gps": false
+    },
+    {
+      "case": "empty_battery",
+      "notice": "Không có liên lạc mới",
+      "power": false,
+      "network": false,
+      "gps": false
+    },
+    {
+      "case": "leave_lock_on",
+      "notice": "Chuẩn bị đi: kiểm tra và tháo khóa",
+      "power": true,
+      "network": true,
+      "gps": true
+    },
+    {
+      "case": "removed_lock",
+      "notice": "Thiết bị đã ở lại, xe di chuyển",
+      "power": true,
+      "network": true,
+      "gps": true
+    },
+    {
+      "case": "phone_left",
+      "notice": "Không có nhắc rời xa đến chủ xe",
+      "power": true,
+      "network": true,
+      "gps": true
+    },
+    {
+      "case": "authorized",
+      "notice": "Kết thúc đỗ có xác nhận · mô phỏng",
+      "power": true,
+      "network": true,
+      "gps": true
+    }
+  ],
+  "mesh_count": 418,
+  "exported_meshes": 208,
+  "capability_boundary_tests": "passed",
+  "toolbar_and_slider": "passed",
+  "mobile_layout": "passed"
+}

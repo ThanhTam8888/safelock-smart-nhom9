@@ -1,0 +1,45 @@
+/* Keep the glass translucent while giving text a solid, readable contrast. */
+@keyframes card-appear{from{transform:translateY(4px)}to{transform:none}}
+body[data-app=explore] .description{color:#577364;font-size:12px}
+body[data-app=explore] .stat small{color:#69816e;font-size:10px;font-weight:450}
+body[data-app=explore] .instruction-card p{color:#647e65;font-size:11px}
+body[data-app=explore] .hint{color:#788d77;font-size:10px}
+body[data-app=explore] .quick-parts button{font-size:11px}
+body[data-app=explore] .download a{font-size:11px;color:#55775b}
+body[data-app=simulation] .case strong{font-size:11.5px;color:#365e48}
+body[data-app=simulation] .case small{font-size:10px;color:#6f8870}
+body[data-app=simulation] .case.active strong{color:#245b39}
+body[data-app=simulation] .case .n{color:#77987e}
+body[data-app=simulation] .filter button{color:#627e65;font-size:9.5px}
+body[data-app=simulation] .tier-desc{color:#667f5a;font-size:10.5px}
+body[data-app=simulation] .tier-title{color:#77936d;font-size:9px}
+body[data-app=simulation] .segmented button{font-size:10px;color:#6c8663}
+body[data-app=simulation] .segmented button.active{color:white;background:#5e8c5b}
+body[data-app=simulation] .phone-head{color:#385f37}
+body[data-app=simulation] .phone-sub{color:#6d8560;font-size:10px}
+body[data-app=simulation] .phone-top{color:#7d956d;font-size:9px}
+body[data-app=simulation] .metric span{color:#6d8562;font-size:8px}
+body[data-app=simulation] .metric b{color:#42653b;font-size:10px}
+body[data-app=simulation] .position-age{color:#71855e;font-size:9px}
+body[data-app=simulation] .notice strong{color:#446b36;font-size:11px}
+body[data-app=simulation] .notice p{color:#617c4f;font-size:10px}
+body[data-app=simulation] .notice.warning strong{color:#87622d}
+body[data-app=simulation] .notice.warning p{color:#8c7048}
+body[data-app=simulation] .notice.danger strong{color:#945c40}
+body[data-app=simulation] .notice.danger p{color:#956c53}
+body[data-app=simulation] .phone-foot{color:#829474;font-size:9px}
+body[data-app=simulation] .phase strong{color:#3e6649;font-size:12px}
+body[data-app=simulation] .phase p{color:#647f5f;font-size:11px}
+body[data-app=simulation] .intro p{color:#71866e;font-size:11px}
+body[data-app=simulation] .facts p{color:#68835c;font-size:12px}
+body[data-app=simulation] .facts b{color:#476c3e}
+body[data-app=simulation] .inputs summary{color:#637f56;font-size:11px}
+body[data-app=simulation] .inputs label{color:#6c835e;font-size:11px}
+body[data-app=simulation] .download a{color:#6e885e;font-size:10px}
+body[data-app=simulation] .sound-note{color:#879a77;font-size:9px}
+body[data-app=simulation] .case-footnote{color:#7c9379}
+body[data-app=simulation] .stage-note{color:#688061}
+body[data-app=simulation] .time{color:#758c65;font-size:9px}
+body[data-app=simulation] .detail-tabs button{font-size:12px;color:#738d66}
+body[data-app=simulation] .detail-tabs button.active{color:#466f3c}
+@media(max-width:800px){body[data-app=explore] .stat b{font-size:20px}body[data-app=explore] .stat small{font-size:9px}body[data-app=simulation] .notice p{font-size:11px}body[data-app=simulation] .metric span{font-size:9px}body[data-app=simulation] .metric b{font-size:11px}}

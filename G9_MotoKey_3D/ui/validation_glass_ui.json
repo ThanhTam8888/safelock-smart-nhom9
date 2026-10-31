@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-31",
+  "checks": [
+    "Actual product-mesh click opens matching annotation",
+    "Annotation follows orbit and stays inside stage",
+    "Dragging does not count as picking",
+    "Close button and Escape work",
+    "Component shortcuts select internal parts",
+    "All five exploration modes work",
+    "Actual inset-mesh and main-scene clicks open matching cards",
+    "Scene pauses for component reading",
+    "Vietnamese accent-insensitive search and empty state work",
+    "Category filter and all 14 scenarios work",
+    "Phone / explanation tabs work",
+    "Collapsible sidebar resizes the 3D canvas",
+    "Mobile and tablet drawer opens, selects, closes and restores focus",
+    "375 / 430 / 900 px layouts have no horizontal overflow",
+    "Mobile product annotation stays inside the model view",
+    "Touchscreen tap selects an actual part on a phone viewport"
+  ],
+  "passed": 16,
+  "javascript_errors": [],
+  "external_requests": [],
+  "offline": true
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "angle_deg": 0,
+    "interferences_over_0_1_mm3": []
+  },
+  {
+    "angle_deg": 2,
+    "interferences_over_0_1_mm3": []
+  },
+  {
+    "angle_deg": 5,
+    "interferences_over_0_1_mm3": []
+  },
+  {
+    "angle_deg": 10,
+    "interferences_over_0_1_mm3": []
+  },
+  {
+    "angle_deg": 20,
+    "interferences_over_0_1_mm3": []
+  },
+  {
+    "angle_deg": 45,
+    "interferences_over_0_1_mm3": []
+  },
+  {
+    "angle_deg": 75,
+    "interferences_over_0_1_mm3": []
+  }
+]

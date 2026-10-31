@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "01_lower_cover",
+    "name": "Thân kẹp dưới",
+    "color": "#26323b",
+    "group": "lower",
+    "explode": [
+      0,
+      0,
+      -13
+    ],
+    "material": "PA6-GF30 / mẫu PA12",
+    "note": "Vỏ không được tính là bộ phận chống cắt chính.",
+    "printable": true,
+    "volume_mm3": 47517.493,
+    "valid": true,
+    "bbox_mm": [
+      48.03,
+      120.01,
+      27.02
+    ],
+    "solids": 1
+  },
+  {
+    "id": "01_upper_cover",
+    "name": "Nắp kẹp trên",
+    "color": "#26323b",
+    "group": "upper",
+    "explode": [
+      0,
+      0,
+      13
+    ],
+    "material": "PA6-GF30 / mẫu PA12",
+    "note": "Vỏ không được tính là bộ phận chống cắt chính.",
+    "printable": true,
+    "volume_mm3": 45894.258,
+    "valid": true,
+    "bbox_mm": [
+      48.03,
+      113.01,
+      27.02
+    ],
+    "solids": 1
+  },
+  {
+    "id": "02_core_lower_L",
+    "name": "Lõi thép dưới trái",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      -27,
+      0,
+      -8
+    ],
+    "material": "Thép 40Cr, dày 3 mm",
+    "note": "Cắt laser, gia công lỗ; nhiệt luyện và chống gỉ theo thử nghiệm.",
+    "printable": false,
+    "volume_mm3": 5107.022,
+    "valid": true,
+    "bbox_mm": [
+      3.03,
+      112.0,
+      24.01
+    ],
+    "solids": 1
+  },
+  {
+    "id": "02_core_lower_R",
+    "name": "Lõi thép dưới phải",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      27,
+      0,
+      -8
+    ],
+    "material": "Thép 40Cr, dày 3 mm",
+    "note": "Cắt laser, gia công lỗ; nhiệt luyện và chống gỉ theo thử nghiệm.",
+    "printable": false,
+    "volume_mm3": 5107.022,
+    "valid": true,
+    "bbox_mm": [
+      3.03,
+      112.0,
+      24.01
+    ],
+    "solids": 1
+  },
+  {
+    "id": "02_core_upper_L",
+    "name": "Lõi thép trên trái",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      -27,
+      0,
+      8
+    ],
+    "material": "Thép 40Cr, dày 3 mm",
+    "note": "Cắt laser, gia công lỗ; nhiệt luyện và chống gỉ theo thử nghiệm.",
+    "printable": false,
+    "volume_mm3": 5329.562,
+    "valid": true,
+    "bbox_mm": [
+      3.03,
+      109.0,
+      24.01
+    ],
+    "solids": 1
+  },
+  {
+    "id": "02_core_upper_R",
+    "name": "Lõi thép trên phải",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      27,
+      0,
+      8
+    ],
+    "material": "Thép 40Cr, dày 3 mm",
+    "note": "Cắt laser, gia công lỗ; nhiệt luyện và chống gỉ theo thử nghiệm.",
+    "printable": false,
+    "volume_mm3": 5329.562,
+    "valid": true,
+    "bbox_mm": [
+      3.03,
+      109.0,
+      24.01
+    ],
+    "solids": 1
+  },
+  {
+    "id": "03_bridge_lower_0",
+    "name": "Giằng nối lõi thép",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      0,
+      -10,
+      -10
+    ],
+    "material": "Thép 40Cr",
+    "note": "Hàn/gia công liên kết với hai má lõi trước nhiệt luyện.",
+    "printable": false,
+    "volume_mm3": 1218.0,
+    "valid": true,
+    "bbox_mm": [
+      29.0,
+      7.0,
+      6.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "03_bridge_lower_1",
+    "name": "Giằng nối lõi thép",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      0,
+      10,
+      -10
+    ],
+    "material": "Thép 40Cr",
+    "note": "Hàn/gia công liên kết với hai má lõi trước nhiệt luyện.",
+    "printable": false,
+    "volume_mm3": 2740.5,
+    "valid": true,
+    "bbox_mm": [
+      29.0,
+      20.0,
+      6.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "03_bridge_upper_0",
+    "name": "Giằng nối lõi thép",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      0,
+      -10,
+      10
+    ],
+    "material": "Thép 40Cr",
+    "note": "Hàn/gia công liên kết với hai má lõi trước nhiệt luyện.",
+    "printable": false,
+    "volume_mm3": 1218.0,
+    "valid": true,
+    "bbox_mm": [
+      29.0,
+      7.0,
+      6.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "03_bridge_upper_1",
+    "name": "Giằng nối lõi thép",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      0,
+      10,
+      10
+    ],
+    "material": "Thép 40Cr",
+    "note": "Hàn/gia công liên kết với hai má lõi trước nhiệt luyện.",
+    "printable": false,
+    "volume_mm3": 1218.0,
+    "valid": true,
+    "bbox_mm": [
+      29.0,
+      7.0,
+      6.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "03_hinge_upper",
+    "name": "Cối bản lề thép trên và gân nối",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      0,
+      -25,
+      16
+    ],
+    "material": "Thép tôi",
+    "note": "Gân nối hàn vào giằng trên; truyền lực cơ học qua thép.",
+    "printable": false,
+    "volume_mm3": 5068.708,
+    "valid": true,
+    "bbox_mm": [
+      27.01,
+      13.0,
+      26.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "03_hinge_lower_0",
+    "name": "Cối bản lề thép dưới",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      -24,
+      -25,
+      -8
+    ],
+    "material": "Thép tôi",
+    "note": "Hàn vào má lõi dưới trước nhiệt luyện.",
+    "printable": false,
+    "volume_mm3": 737.324,
+    "valid": true,
+    "bbox_mm": [
+      9.01,
+      12.01,
+      12.01
+    ],
+    "solids": 1
+  },
+  {
+    "id": "03_hinge_lower_1",
+    "name": "Cối bản lề thép dưới",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      24,
+      -25,
+      -8
+    ],
+    "material": "Thép tôi",
+    "note": "Hàn vào má lõi dưới trước nhiệt luyện.",
+    "printable": false,
+    "volume_mm3": 737.324,
+    "valid": true,
+    "bbox_mm": [
+      9.01,
+      12.01,
+      12.01
+    ],
+    "solids": 1
+  },
+  {
+    "id": "03_latch_receiver",
+    "name": "Hộp dẫn hướng tai và chốt khóa",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      0,
+      25,
+      -16
+    ],
+    "material": "Thép tôi",
+    "note": "Liên kết với giằng dưới; giữ và dẫn hướng tai khóa.",
+    "printable": false,
+    "volume_mm3": 7787.887,
+    "valid": true,
+    "bbox_mm": [
+      29.01,
+      20.0,
+      20.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "04_grip_liner_lower",
+    "name": "Đệm tay ga Ø34 — lower",
+    "color": "#202326",
+    "group": "lower",
+    "explode": [
+      0,
+      -18,
+      -18
+    ],
+    "material": "EPDM 65–75 Shore A",
+    "note": "Lòng Ø34 mm; thay đệm Ø30/32/36. Độ ép thực tế cần đo.",
+    "printable": true,
+    "volume_mm3": 6276.902,
+    "valid": true,
+    "bbox_mm": [
+      36.03,
+      40.03,
+      20.03
+    ],
+    "solids": 1
+  },
+  {
+    "id": "05_brake_pad_lower",
+    "name": "Đệm giữ tay phanh — lower",
+    "color": "#202326",
+    "group": "lower",
+    "explode": [
+      0,
+      18,
+      -20
+    ],
+    "material": "EPDM",
+    "note": "Thay đệm lệch tâm sau khi đo tay phanh; không ép phanh quá hành trình.",
+    "printable": true,
+    "volume_mm3": 3775.68,
+    "valid": true,
+    "bbox_mm": [
+      36.0,
+      19.6,
+      7.8
+    ],
+    "solids": 1
+  },
+  {
+    "id": "04_grip_liner_upper",
+    "name": "Đệm tay ga Ø34 — upper",
+    "color": "#202326",
+    "group": "upper",
+    "explode": [
+      0,
+      -18,
+      18
+    ],
+    "material": "EPDM 65–75 Shore A",
+    "note": "Lòng Ø34 mm; thay đệm Ø30/32/36. Độ ép thực tế cần đo.",
+    "printable": true,
+    "volume_mm3": 6276.902,
+    "valid": true,
+    "bbox_mm": [
+      36.03,
+      40.03,
+      20.03
+    ],
+    "solids": 1
+  },
+  {
+    "id": "05_brake_pad_upper",
+    "name": "Đệm giữ tay phanh — upper",
+    "color": "#202326",
+    "group": "upper",
+    "explode": [
+      0,
+      18,
+      20
+    ],
+    "material": "EPDM",
+    "note": "Thay đệm lệch tâm sau khi đo tay phanh; không ép phanh quá hành trình.",
+    "printable": true,
+    "volume_mm3": 3775.68,
+    "valid": true,
+    "bbox_mm": [
+      36.0,
+      19.6,
+      7.8
+    ],
+    "solids": 1
+  },
+  {
+    "id": "06_hinge_pin",
+    "name": "Trục bản lề Ø6",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      -36,
+      -18,
+      0
+    ],
+    "material": "Thép không gỉ / thép tôi",
+    "note": "Chốt tán kín hai đầu; lõi thép có lỗ đồng trục.",
+    "printable": false,
+    "volume_mm3": 1385.442,
+    "valid": true,
+    "bbox_mm": [
+      49.0,
+      6.0,
+      6.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "06_hinge_cap_-24.5",
+    "name": "Đầu tán trục",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      -40.0,
+      -18,
+      0
+    ],
+    "material": "Thép",
+    "note": "",
+    "printable": false,
+    "volume_mm3": 69.706,
+    "valid": true,
+    "bbox_mm": [
+      1.21,
+      8.61,
+      8.61
+    ],
+    "solids": 1
+  },
+  {
+    "id": "06_hinge_cap_24.5",
+    "name": "Đầu tán trục",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      40.0,
+      -18,
+      0
+    ],
+    "material": "Thép",
+    "note": "",
+    "printable": false,
+    "volume_mm3": 69.706,
+    "valid": true,
+    "bbox_mm": [
+      1.21,
+      8.61,
+      8.61
+    ],
+    "solids": 1
+  },
+  {
+    "id": "07_key_cylinder",
+    "name": "Ruột khóa cơ Ø14 × 14",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      36,
+      20,
+      -8
+    ],
+    "material": "Cụm ruột khóa mua sẵn",
+    "note": "Bao hình mua hàng; chưa thiết kế bi/tumbler bên trong.",
+    "printable": false,
+    "volume_mm3": 2155.133,
+    "valid": true,
+    "bbox_mm": [
+      14.01,
+      14.01,
+      14.01
+    ],
+    "solids": 1
+  },
+  {
+    "id": "07_key_face",
+    "name": "Mặt ruột khóa và rãnh chìa",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      40,
+      20,
+      -8
+    ],
+    "material": "Thép không gỉ",
+    "note": "",
+    "printable": false,
+    "volume_mm3": 420.36,
+    "valid": true,
+    "bbox_mm": [
+      2.01,
+      17.01,
+      17.01
+    ],
+    "solids": 1
+  },
+  {
+    "id": "08_lock_tongue",
+    "name": "Tai khóa thép có lỗ chốt",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      0,
+      27,
+      28
+    ],
+    "material": "Thép tôi, 7,5 × 10 mm",
+    "note": "Tai nối với giằng trên; lỗ Ø6.6 là lỗ kín, còn gân hai bên.",
+    "printable": false,
+    "volume_mm3": 2593.41,
+    "valid": true,
+    "bbox_mm": [
+      7.5,
+      10.0,
+      38.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "09_cam_bolt",
+    "name": "Chốt khóa Ø6 × 16, hành trình 12",
+    "color": "#d5ac58",
+    "group": "lower",
+    "explode": [
+      16,
+      38,
+      -8
+    ],
+    "material": "Thép tôi",
+    "note": "Chốt ăn vào má nhận hai bên; ổ khóa nhà cung cấp phải có cơ cấu rút chốt 12 mm thực.",
+    "printable": false,
+    "volume_mm3": 452.389,
+    "valid": true,
+    "bbox_mm": [
+      16.0,
+      6.0,
+      6.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "10_pod_tray",
+    "name": "Khay điện tử, gân và trụ vít",
+    "color": "#26323b",
+    "group": "upper",
+    "explode": [
+      0,
+      0,
+      30
+    ],
+    "material": "PC-ABS chống UV",
+    "note": "Tách khỏi đường chịu lực; đế dày 2,5 mm.",
+    "printable": true,
+    "volume_mm3": 24061.102,
+    "valid": true,
+    "bbox_mm": [
+      44.01,
+      80.01,
+      23.01
+    ],
+    "solids": 1
+  },
+  {
+    "id": "11_main_pcb",
+    "name": "PCB đặt riêng 60 × 32 × 1,6",
+    "color": "#176e63",
+    "group": "upper",
+    "explode": [
+      0,
+      0,
+      48
+    ],
+    "material": "FR4 4 lớp",
+    "note": "Bao hình PCB; không phải sơ đồ mạch/gerber đã xác nhận.",
+    "printable": false,
+    "volume_mm3": 3067.906,
+    "valid": true,
+    "bbox_mm": [
+      32.0,
+      60.0,
+      1.6
+    ],
+    "solids": 1
+  },
+  {
+    "id": "12_lte_module",
+    "name": "SIM7670G, tùy chọn có GNSS",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      0,
+      -18,
+      56
+    ],
+    "material": "Module LTE Cat 1bis",
+    "note": "Kích thước hãng 24 × 24 × 2,4; phải mua đúng SKU có GNSS.",
+    "printable": false,
+    "volume_mm3": 1381.658,
+    "valid": true,
+    "bbox_mm": [
+      24.0,
+      24.0,
+      2.4
+    ],
+    "solids": 1
+  },
+  {
+    "id": "13_mcu",
+    "name": "MCU tiết kiệm điện",
+    "color": "#26323b",
+    "group": "upper",
+    "explode": [
+      -12,
+      0,
+      57
+    ],
+    "material": "MCU low power",
+    "note": "Bao hình linh kiện; chọn STM32L0/L4 hoặc tương đương.",
+    "printable": false,
+    "volume_mm3": 36.0,
+    "valid": true,
+    "bbox_mm": [
+      6.0,
+      6.0,
+      1.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "13_accel",
+    "name": "Cảm biến gia tốc 3 trục",
+    "color": "#d5ac58",
+    "group": "upper",
+    "explode": [
+      12,
+      0,
+      57
+    ],
+    "material": "MEMS",
+    "note": "Wake-on-motion; lọc rung do môi trường bằng firmware.",
+    "printable": false,
+    "volume_mm3": 9.0,
+    "valid": true,
+    "bbox_mm": [
+      3.0,
+      3.0,
+      1.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "13_hall",
+    "name": "Cảm biến Hall trạng thái đóng",
+    "color": "#176e63",
+    "group": "upper",
+    "explode": [
+      -12,
+      20,
+      15
+    ],
+    "material": "Hall low power",
+    "note": "Dây đi trong nửa trên, xuyên gioăng lên PCB; không qua bản lề.",
+    "printable": false,
+    "volume_mm3": 9.0,
+    "valid": true,
+    "bbox_mm": [
+      3.0,
+      3.0,
+      1.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "13_magnet",
+    "name": "Nam châm nhận biết trạng thái",
+    "color": "#a4b2bc",
+    "group": "lower",
+    "explode": [
+      -12,
+      20,
+      -15
+    ],
+    "material": "Nam châm",
+    "note": "Hall chỉ xác nhận hai nửa áp sát, không thay thế kiểm tra chốt.",
+    "printable": false,
+    "volume_mm3": 14.137,
+    "valid": true,
+    "bbox_mm": [
+      3.0,
+      3.0,
+      2.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "14_sim_holder",
+    "name": "Khay nano-SIM",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      0,
+      23,
+      57
+    ],
+    "material": "Khay SIM",
+    "note": "SIM nằm trong nắp kín, không có khe hở bên hông.",
+    "printable": false,
+    "volume_mm3": 269.536,
+    "valid": true,
+    "bbox_mm": [
+      12.0,
+      15.0,
+      1.5
+    ],
+    "solids": 1
+  },
+  {
+    "id": "15_battery",
+    "name": "Pin Li-Po 1S, bao hình 60 × 30 × 8",
+    "color": "#b8c9d3",
+    "group": "upper",
+    "explode": [
+      0,
+      0,
+      74
+    ],
+    "material": "Pin Li-Po có bảo vệ + NTC",
+    "note": "Khoảng 1.500 mAh là mục tiêu mua hàng; xác nhận datasheet cell. Dành khe nở ≥1 mm.",
+    "printable": false,
+    "volume_mm3": 14393.133,
+    "valid": true,
+    "bbox_mm": [
+      30.0,
+      60.0,
+      8.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "15_battery_label",
+    "name": "Nhãn pin",
+    "color": "#e8ece9",
+    "group": "upper",
+    "explode": [
+      0,
+      0,
+      74
+    ],
+    "material": "Nhãn cách điện",
+    "note": "",
+    "printable": false,
+    "volume_mm3": 144.771,
+    "valid": true,
+    "bbox_mm": [
+      23.0,
+      42.0,
+      0.15
+    ],
+    "solids": 1
+  },
+  {
+    "id": "16_gnss_ground",
+    "name": "Ground plane anten GNSS 24 × 24",
+    "color": "#176e63",
+    "group": "upper",
+    "explode": [
+      0,
+      -24,
+      86
+    ],
+    "material": "FR4 phủ đồng",
+    "note": "Khay cách điện đỡ riêng phía trên pin; ground plane theo datasheet anten.",
+    "printable": false,
+    "volume_mm3": 345.415,
+    "valid": true,
+    "bbox_mm": [
+      24.0,
+      24.0,
+      0.6
+    ],
+    "solids": 1
+  },
+  {
+    "id": "16_gnss_patch",
+    "name": "Anten GNSS patch 18 × 18 × 4",
+    "color": "#d5ac58",
+    "group": "upper",
+    "explode": [
+      0,
+      -24,
+      91
+    ],
+    "material": "Gốm / PCB groundplane",
+    "note": "Bao hình anten; cần ground plane và đo RF, không có thép che phía trên.",
+    "printable": false,
+    "volume_mm3": 1294.318,
+    "valid": true,
+    "bbox_mm": [
+      18.0,
+      18.0,
+      4.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "17_lte_antenna",
+    "name": "Anten LTE FPC 40 × 10",
+    "color": "#d5ac58",
+    "group": "upper",
+    "explode": [
+      -30,
+      0,
+      90
+    ],
+    "material": "FPC dán thành nhựa",
+    "note": "Bao hình tham khảo; kích thước cuối theo anten và tuning RF.",
+    "printable": false,
+    "volume_mm3": 99.981,
+    "valid": true,
+    "bbox_mm": [
+      10.0,
+      40.0,
+      0.25
+    ],
+    "solids": 1
+  },
+  {
+    "id": "18_usb_c",
+    "name": "Cổng USB-C 5 V",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      0,
+      27,
+      45
+    ],
+    "material": "Cổng USB-C",
+    "note": "Hai điện trở CC; bộ sạc 1S có NTC, bảo vệ và đường cấp modem.",
+    "printable": false,
+    "volume_mm3": 200.254,
+    "valid": true,
+    "bbox_mm": [
+      9.0,
+      7.0,
+      3.2
+    ],
+    "solids": 1
+  },
+  {
+    "id": "18_usb_flap",
+    "name": "Nút bịt cổng sạc",
+    "color": "#202326",
+    "group": "upper",
+    "explode": [
+      0,
+      40,
+      46
+    ],
+    "material": "Silicone",
+    "note": "Gờ ép kín; chỉ sạc khi tháo khỏi xe, nơi khô thoáng.",
+    "printable": true,
+    "volume_mm3": 182.0,
+    "valid": true,
+    "bbox_mm": [
+      13.0,
+      2.0,
+      7.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "19_cable_grommet",
+    "name": "Gioăng lỗ dây cảm biến",
+    "color": "#202326",
+    "group": "upper",
+    "explode": [
+      0,
+      0,
+      34
+    ],
+    "material": "Silicone",
+    "note": "Dây tới cảm biến Hall/tamper; bịt kín bằng silicone.",
+    "printable": false,
+    "volume_mm3": 78.54,
+    "valid": true,
+    "bbox_mm": [
+      5.0,
+      5.0,
+      4.0
+    ],
+    "solids": 1
+  },
+  {
+    "id": "20_seal",
+    "name": "Gioăng chu vi nắp điện tử",
+    "color": "#202326",
+    "group": "upper",
+    "explode": [
+      0,
+      0,
+      99
+    ],
+    "material": "Silicone",
+    "note": "Gioăng hình chữ nhật bo góc; mục tiêu ép 15–25%, cần thử kín.",
+    "printable": true,
+    "volume_mm3": 635.179,
+    "valid": true,
+    "bbox_mm": [
+      42.01,
+      78.01,
+      1.41
+    ],
+    "solids": 1
+  },
+  {
+    "id": "21_pod_lid",
+    "name": "Nắp anten tháo bằng vít",
+    "color": "#ed762e",
+    "group": "upper",
+    "explode": [
+      0,
+      0,
+      112
+    ],
+    "material": "PC-ABS chống UV",
+    "note": "Mục tiêu chống bụi/nước sau thử nghiệm; chưa công bố IP.",
+    "printable": true,
+    "volume_mm3": 8319.288,
+    "valid": true,
+    "bbox_mm": [
+      44.01,
+      80.01,
+      2.41
+    ],
+    "solids": 1
+  },
+  {
+    "id": "22_lid_screw_0",
+    "name": "Vít nắp M3",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      -6.0,
+      -8.7,
+      121
+    ],
+    "material": "Thép không gỉ",
+    "note": "Ren vào insert đồng lắp nhiệt trong boss, mô hình bao hình ren.",
+    "printable": false,
+    "volume_mm3": 82.777,
+    "valid": true,
+    "bbox_mm": [
+      5.2,
+      5.2,
+      9.5
+    ],
+    "solids": 1
+  },
+  {
+    "id": "22_lid_screw_1",
+    "name": "Vít nắp M3",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      6.0,
+      -8.7,
+      121
+    ],
+    "material": "Thép không gỉ",
+    "note": "Ren vào insert đồng lắp nhiệt trong boss, mô hình bao hình ren.",
+    "printable": false,
+    "volume_mm3": 82.777,
+    "valid": true,
+    "bbox_mm": [
+      5.2,
+      5.2,
+      9.5
+    ],
+    "solids": 1
+  },
+  {
+    "id": "22_lid_screw_2",
+    "name": "Vít nắp M3",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      -6.0,
+      10.5,
+      121
+    ],
+    "material": "Thép không gỉ",
+    "note": "Ren vào insert đồng lắp nhiệt trong boss, mô hình bao hình ren.",
+    "printable": false,
+    "volume_mm3": 82.777,
+    "valid": true,
+    "bbox_mm": [
+      5.2,
+      5.2,
+      9.5
+    ],
+    "solids": 1
+  },
+  {
+    "id": "22_lid_screw_3",
+    "name": "Vít nắp M3",
+    "color": "#a4b2bc",
+    "group": "upper",
+    "explode": [
+      6.0,
+      10.5,
+      121
+    ],
+    "material": "Thép không gỉ",
+    "note": "Ren vào insert đồng lắp nhiệt trong boss, mô hình bao hình ren.",
+    "printable": false,
+    "volume_mm3": 82.777,
+    "valid": true,
+    "bbox_mm": [
+      5.2,
+      5.2,
+      9.5
+    ],
+    "solids": 1
+  },
+  {
+    "id": "23_status_lens",
+    "name": "LED trạng thái và dẫn sáng",
+    "color": "#8ae6c5",
+    "group": "upper",
+    "explode": [
+      14,
+      0,
+      115
+    ],
+    "material": "PC trong",
+    "note": "LED sáng ngắn khi thao tác để giảm điện năng.",
+    "printable": false,
+    "volume_mm3": 20.913,
+    "valid": true,
+    "bbox_mm": [
+      3.0,
+      9.0,
+      0.8
+    ],
+    "solids": 1
+  },
+  {
+    "id": "24_brand",
+    "name": "Chữ SAFELOCK",
+    "color": "#e8ece9",
+    "group": "upper",
+    "explode": [
+      0,
+      0,
+      112
+    ],
+    "material": "In pad / khắc laser",
+    "note": "",
+    "printable": false,
+    "volume_mm3": 7.074,
+    "valid": true,
+    "bbox_mm": [
+      22.4,
+      3.04,
+      0.27
+    ],
+    "solids": 8
+  },
+  {
+    "id": "24_brand_small",
+    "name": "Chữ SMART / G9",
+    "color": "#e8ece9",
+    "group": "upper",
+    "explode": [
+      0,
+      0,
+      112
+    ],
+    "material": "In pad",
+    "note": "",
+    "printable": false,
+    "volume_mm3": 1.16,
+    "valid": true,
+    "bbox_mm": [
+      13.31,
+      1.78,
+      0.19
+    ],
+    "solids": 8
+  },
+  {
+    "id": "ref_handlebar",
+    "name": "Ống tay lái tham chiếu",
+    "color": "#a4b2bc",
+    "group": "context",
+    "explode": [
+      0,
+      0,
+      0
+    ],
+    "material": "Ống Ø22",
+    "note": "Chỉ minh họa, không nằm trong BOM khóa.",
+    "printable": false,
+    "volume_mm3": 63102.03,
+    "valid": true,
+    "bbox_mm": [
+      166.02,
+      22.02,
+      22.02
+    ],
+    "solids": 1
+  },
+  {
+    "id": "ref_throttle",
+    "name": "Tay ga mẫu Ø34",
+    "color": "#202326",
+    "group": "context",
+    "explode": [
+      0,
+      0,
+      0
+    ],
+    "material": "Cao su",
+    "note": "Vân gờ nằm ngoài vùng kẹp hoặc bị đệm ép; minh họa.",
+    "printable": false,
+    "volume_mm3": 54777.281,
+    "valid": true,
+    "bbox_mm": [
+      108.02,
+      35.02,
+      35.02
+    ],
+    "solids": 1
+  },
+  {
+    "id": "ref_bar_end",
+    "name": "Gù tay lái",
+    "color": "#26323b",
+    "group": "context",
+    "explode": [
+      0,
+      0,
+      0
+    ],
+    "material": "Nhôm",
+    "note": "Gù Ø38 giúp hạn chế tuột ngang, phải kiểm tra xe thật.",
+    "printable": false,
+    "volume_mm3": 12475.264,
+    "valid": true,
+    "bbox_mm": [
+      11.03,
+      38.03,
+      38.03
+    ],
+    "solids": 1
+  },
+  {
+    "id": "ref_switch",
+    "name": "Cụm công tắc tham chiếu",
+    "color": "#26323b",
+    "group": "context",
+    "explode": [
+      0,
+      0,
+      0
+    ],
+    "material": "Nhựa",
+    "note": "",
+    "printable": false,
+    "volume_mm3": 45994.601,
+    "valid": true,
+    "bbox_mm": [
+      26.01,
+      49.01,
+      37.01
+    ],
+    "solids": 1
+  },
+  {
+    "id": "ref_master",
+    "name": "Cụm phanh tham chiếu",
+    "color": "#26323b",
+    "group": "context",
+    "explode": [
+      0,
+      0,
+      0
+    ],
+    "material": "Nhôm",
+    "note": "",
+    "printable": false,
+    "volume_mm3": 20445.31,
+    "valid": true,
+    "bbox_mm": [
+      37.01,
+      28.01,
+      20.01
+    ],
+    "solids": 1
+  },
+  {
+    "id": "ref_brake_lever",
+    "name": "Tay phanh ở vị trí đã bóp",
+    "color": "#a4b2bc",
+    "group": "context",
+    "explode": [
+      0,
+      0,
+      0
+    ],
+    "material": "Nhôm",
+    "note": "Tâm rãnh mẫu cách tâm tay ga 54 mm. Đo thực tế trước chọn đệm.",
+    "printable": false,
+    "volume_mm3": 7023.799,
+    "valid": true,
+    "bbox_mm": [
+      137.0,
+      31.0,
+      6.01
+    ],
+    "solids": 1
+  }
+]

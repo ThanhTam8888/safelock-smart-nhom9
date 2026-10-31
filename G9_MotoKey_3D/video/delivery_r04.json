@@ -1,0 +1,20 @@
+{
+  "revision": "R04",
+  "date": "2026-10-31",
+  "videos": 4,
+  "total_seconds": 204,
+  "chapters": 35,
+  "video_format": "1920x1080 / 24 fps / H.264",
+  "ui_checks": 16,
+  "video_checks": 7,
+  "scenarios_checked": 14,
+  "offline": true,
+  "unchanged_mechanical_sources": {
+    "CAD/SafeLock_G9_R01.step": true,
+    "CAD/SafeLock_G9_R01.glb": true,
+    "presentation/model_data.json": true,
+    "ung_dung_tren_xe/scenarios.json": true
+  },
+  "vehicle_glb_meshes": 208,
+  "limitations": "Digital reference design; no physical product tests. R02 BLE/app is proposed."
+}

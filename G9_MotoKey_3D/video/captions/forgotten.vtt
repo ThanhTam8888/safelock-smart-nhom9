@@ -1,0 +1,31 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.000
+Chìa xe vẫn còn trong ổ
+Khóa kẹp đã được gắn nhưng chủ xe chưa lấy chìa xe. Cảnh minh họa chìa cơ.
+
+2
+00:00:06.000 --> 00:00:12.000
+Điện thoại đi cùng người
+Người dùng rời vị trí đỗ và mang điện thoại. Liên kết BLE được giả lập suy yếu hoặc mất.
+
+3
+00:00:12.000 --> 00:00:18.000
+R02 nhắc kiểm tra chung
+Gói BLE và ứng dụng đề xuất có thể nhắc kiểm tra chìa xe và việc gắn khóa sau khoảng trễ phù hợp.
+
+4
+00:00:18.000 --> 00:00:24.000
+So sánh với R01
+R01 GPS/4G không tự biết chìa còn trong ổ. Muốn nhận biết riêng việc quên chìa cần cảm biến hoặc thẻ bổ sung.
+
+5
+00:00:24.000 --> 00:00:30.000
+Quay lại kiểm tra
+Trong kịch bản R02, người dùng nhận nhắc rồi quay về xe. Không có thao tác tự mở từ xa.
+
+6
+00:00:30.000 --> 00:00:36.000
+Lấy chìa và kiểm tra khóa
+Người dùng lấy chìa, kiểm tra khóa cơ và tiếp tục phiên đỗ. Tính năng nhắc vẫn cần kiểm chứng trên mẫu thật.

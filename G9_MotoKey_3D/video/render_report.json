@@ -1,0 +1,53 @@
+{
+  "videos": [
+    {
+      "id": "mechanism",
+      "path": "presentation\\SafeLock_G9_giai_thich_3D.mp4",
+      "duration": 28,
+      "fps": 24,
+      "width": 1920,
+      "height": 1080,
+      "frames": 672,
+      "cue_samples": 56,
+      "megabytes": 2.98,
+      "render_seconds": 11.1
+    },
+    {
+      "id": "forgotten",
+      "path": "video\\Roi_xe_quen_chia_chi_tiet.mp4",
+      "duration": 36,
+      "fps": 24,
+      "width": 1920,
+      "height": 1080,
+      "frames": 864,
+      "cue_samples": 72,
+      "megabytes": 1.57,
+      "render_seconds": 16.4
+    },
+    {
+      "id": "scenarios",
+      "path": "ung_dung_tren_xe\\SafeLock_14_tinh_huong_tren_xe.mp4",
+      "duration": 84,
+      "fps": 24,
+      "width": 1920,
+      "height": 1080,
+      "frames": 2016,
+      "cue_samples": 168,
+      "megabytes": 5.57,
+      "render_seconds": 36.4
+    },
+    {
+      "id": "operation",
+      "path": "video\\Van_hanh_SafeLock_chi_tiet.mp4",
+      "duration": 56,
+      "fps": 24,
+      "width": 1920,
+      "height": 1080,
+      "frames": 1344,
+      "cue_samples": 112,
+      "megabytes": 5.19,
+      "render_seconds": 26.7
+    }
+  ],
+  "javascript_errors": []
+}
